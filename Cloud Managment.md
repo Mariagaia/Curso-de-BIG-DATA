@@ -11,5 +11,8 @@
 
 ## Miércoles Data Managment
 
-- 03- ***Programación funcional*** (lamda, map, filter).
-- Space X 01 
+- 04- ***Programación funcional*** (lamda, map, filter).
+
+## Jueves Data Managment
+
+- 05- ***PySpark*** (RDD, paralelizado; transformaciones: lamda, map, filter y acciones:take, count, collect).
