@@ -1,0 +1,6 @@
+.gitignore
+data_processed.csv
+logreg_cv.pkl
+scaler.pkl
+logreg_cv.joblib
+scaler.joblib
