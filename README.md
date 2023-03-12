@@ -31,3 +31,16 @@ Contenidos:
 - Árboles de decisión.
 - Manipulación de datos (Primary KEY, Foreign KEY)
 - Introducción al Machine Learning
+
+### Analítica digital
+
+- Mediciones
+- Análisis DAFO
+- Benchmarking.
+- Objtetivos de negocio, métricas, kpis
+- Google Analitics
+- Dimensiones e informes
+- Seguimientos de campañas, modelos de atribución
+- Entornos analítica digital
+- Embudos de venta.
+- Seo
