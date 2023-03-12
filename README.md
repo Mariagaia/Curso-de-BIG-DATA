@@ -44,3 +44,11 @@ Contenidos:
 - Entornos analítica digital
 - Embudos de venta.
 - Seo
+
+### SQL:
+
+- Bases de datos Relacionales
+- Operadores, agregación, fechas, subqueries, unions, join
+- Paradigmas del procesado de datos
+- Ecosistema Hadoop
+
