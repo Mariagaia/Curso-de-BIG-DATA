@@ -52,3 +52,13 @@ Contenidos:
 - Paradigmas del procesado de datos
 - Ecosistema Hadoop
 
+### Data Fundamentals: Python
+
+- Creación de variables, comparaciones, condicionales, randoms, format
+- Crisp DM y EDA
+- Librerías y PIP
+- Tuplas, listas, diccionarios, funciones nativas y librerías
+- Numpy y Pandas
+- Data Manipulation - Data wrangling
+- Valores Atípicos
+
