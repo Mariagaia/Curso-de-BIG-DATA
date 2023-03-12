@@ -62,3 +62,19 @@ Contenidos:
 - Data Manipulation - Data wrangling
 - Valores Atípicos
 
+### Exploración y análisis de datos
+
+- Aprendizaje automático, Machine Learning (patrones, incertidumbre, herramientas)
+- Operaciones con matrices
+- Cálculo, optimización función coste, error, pérdidas.
+- Estadística Descriptiva (Varianza, desviación, probabilidad, variables aleatorias discretas, distribuciones conjuntas y marginales, operador Esperanza).
+- Modelos Supervisados / No Supervisados
+- Paramétricos / No Paramétricos
+- Aprendizaje por Refuerzo
+- Aprendizaje incremental vs Batch
+- KNN
+- Regresión
+- Validación Cruzada
+- Clustering
+- Redes neuronales
+
