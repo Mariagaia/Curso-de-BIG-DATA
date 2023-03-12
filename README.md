@@ -3,8 +3,6 @@
 ## Big Data , Programación informática, aplicaciones específicasBig Data , Programación informática, aplicaciones específicas
 feb. 2023 - abr. 2023
 
-Titulación: Programa actualízateTitulación: Programa actualízate
-
 Contenidos: 
 · Business Intelligence 
 · Tecnologías de empresa reales 
@@ -77,4 +75,11 @@ Contenidos:
 - Validación Cruzada
 - Clustering
 - Redes neuronales
+
+### Arquitectura Cloud y Big Data
+
+- Entornos de trabajo
+- Repaso de Python: estructuras, librerías, operandos jerarquía de operaciones, condicionales, bucles.
+- Programación funcional: lambda, map, filter.
+- Pyspark: RDD, paralelizar, transformaciones, acciones
 
